@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Change Image</string>
+    <string name="change_image">Change Image</string>
+    <string name="image_with_rain">image with rain</string>
 </resources>
